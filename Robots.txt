@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://humberto-jose.github.io/Mz-Divulga-Oficial-/sitemap.xml
